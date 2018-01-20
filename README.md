@@ -6,7 +6,7 @@
 > 
 ### [我的博客在这里 &rarr;](http://cshixiang.github.io)
 
-![](https://raw.githubusercontent.com/cshixiang/cshixiang.github.io/master/img/myself.jpg)
+![0.5](https://raw.githubusercontent.com/cshixiang/cshixiang.github.io/master/img/myself.jpg)
 
 
 ## 使用
